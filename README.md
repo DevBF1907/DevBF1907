@@ -10,7 +10,7 @@
 
   - 🌱 Atualmente Cursando Análise e Desenvolvimento de Sistemas - UNINASSAU GRAÇAS
 
-  - 🔭 Estou procurando minha primeira oportunidade de estágio. Minha maior meta é se estabilizar no mercado e trabalho e trabalhar para a gringa.
+  - 🔭 Estou procurando minha primeira oportunidade de estágio. Minha maior meta é se estabilizar no mercado de trabalho e trabalhar para a gringa.
 </p>
 
 <!-- Dropdown -->
