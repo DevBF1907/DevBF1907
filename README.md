@@ -10,14 +10,14 @@
 
   - 🌱 Atualmente Cursando Análise e Desenvolvimento de Sistemas - UNINASSAU GRAÇAS
 
-  - 🔭 Estou procurando minha primeira oportunidade de estágio. Minha maior meta é se estabilizar no mercado de trabalho e trabalhar para a gringa.
+  - 🔭 Estou procurando minha primeira oportunidade de estágio. Minha maior meta é se estabilizar no mercado de trabalho.
 </p>
 
 <!-- Dropdown -->
 <details>
   <summary>👨‍💻 Mais sobre mim</summary>
 
-  - 💬 Eu tenho 19 anos, atualmente moro no Brasil. Iniciei meus estudos na programação no incio desse ano de 2024, passando com uma bolsa de 100% pelo PROUNI, até então, sem experiência no mercado de trabaho, mas sigo me aprimorando dia após dia.
+  - 💬 Eu tenho 19 anos. Iniciei meus estudos na programação no de 2024, passando com uma bolsa de 100% pelo PROUNI, até então, sem experiência no mercado de trabaho, mas sigo me aprimorando dia após dia.
 
   - ⚡ Eu gosto de estudar, ler, fazer exercicios fisicos e jogar! , Acredito que nossos interesses pessoais contribuem para uma percepção mais refinada das coisas e resolução de problemas. \o/
 </details>
@@ -33,7 +33,7 @@
 
 <!-- Portfolio -->
 ## Portfolio:
-- Em andamento 🤓
+
 
   
 ## 🔥 Skills
