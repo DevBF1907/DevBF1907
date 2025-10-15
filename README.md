@@ -1,78 +1,106 @@
-<!--título-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hello World!!</h1></summary>
+# 👋 Olá, eu sou o Brenno Felipe!
+
+<div align="center">
+  <img height="300" width="80%" src="https://image2url.com/images/1760485989504-6c0cca18-539e-4570-8477-fea13a245eb4.gif" alt="GIF de apresentação" />
 </div>
 
-<!-- Presentation -->
-<p>
-  Olá, Me chamo Brenno! Estudante de Análise e Desenvolvimento de Sistemas.
+---
 
-  - 🌱 Atualmente Cursando Análise e Desenvolvimento de Sistemas - UNINASSAU GRAÇAS
+## 📋 Sobre Mim
 
-  - 🔭 Estou procurando minha primeira oportunidade de estágio. Minha maior meta é se estabilizar no mercado de trabalho.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** na UNINASSAU Graças, apaixonado por tecnologia e desenvolvimento de software. Aos 20 anos, estou em busca de consolidar minha carreira no mercado de trabalho.
+
+### 🎯 Objetivos
+- 🌱 **Aprendizado Contínuo**: Sempre buscando aprimorar minhas habilidades técnicas
+- 🔭 **Primeira Oportunidade**: Focado em conseguir meu primeiro estágio na área de desenvolvimento
+- 💼 **Estabilidade Profissional**: Meta de me estabelecer no mercado de trabalho de tecnologia
+
+### 🎓 Educação
+- **Curso**: Análise e Desenvolvimento de Sistemas
+- **Instituição**: UNINASSAU Graças
+- **Modalidade**: Bolsa 100% pelo PROUNI
+- **Período**: 2025 - Presente
+
+---
+
+## 🚀 Habilidades Técnicas
+
+### Linguagens de Programação
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,javascript,typescript,python,html,css" alt="Linguagens de programação" />
 </p>
 
-<!-- Dropdown -->
+### Banco de Dados
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql" alt="Banco de dados" />
+</p>
+
+### Ferramentas e Tecnologias
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=spring,nestjs,react,docker,prisma,git" alt="ferramentas e tecnologias" />
+</p>
+
+
+---
+
+## 📁 Projetos Destacados
+
+### 🏆 Ranking Web
+- **Descrição**: Sistema web para classificação e ranking
+- **Tecnologias**: JavaScript,Html,Css
+- **Link**: [Ver Projeto](https://github.com/DevBF1907/Ranking-Web.git)
+
+### 💰 Agregador Invest
+- **Descrição**: Plataforma agregadora de informações de investimentos
+- **Tecnologias**: SpringBoot
+- **Link**: [Ver Projeto](https://github.com/DevBF1907/Agregador-Invest.git)
+
+### 🚔 Desafio CBMPE
+- **Descrição**: Aplicativo desenvolvido para desafio da CBMPE
+- **Tecnologias**: React Native
+- **Link**: [Ver Projeto](https://github.com/DevBF1907/CBMPE-App.git)
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DevBF1907&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="Estatísticas do GitHub" />
+</div>
+
+---
+
+## 💡 Mais Sobre Mim
+
 <details>
-  <summary>👨‍💻 Mais sobre mim</summary>
+<summary>🔍 Clique para expandir</summary>
 
-  - 💬 Eu tenho 19 anos. Iniciei meus estudos na programação no de 2024, passando com uma bolsa de 100% pelo PROUNI, até então, sem experiência no mercado de trabaho, mas sigo me aprimorando dia após dia.
+### 🎯 Interesses Pessoais
+- 📚 **Estudos**: Apaixonado por aprender novas tecnologias
+- 📖 **Leitura**: Gosto de ler sobre tecnologia e desenvolvimento pessoal
+- 🏃‍♂️ **Exercícios Físicos**: Mantenho uma rotina ativa de exercícios
+- 🎮 **Gaming**: Gosto de jogar nas horas vagas
 
-  - ⚡ Eu gosto de estudar, ler, fazer exercicios fisicos e jogar! , Acredito que nossos interesses pessoais contribuem para uma percepção mais refinada das coisas e resolução de problemas. \o/
+### 💭 Filosofia
+Acredito que nossos interesses pessoais contribuem significativamente para uma percepção mais refinada das coisas e para a resolução criativa de problemas. A diversidade de experiências nos torna desenvolvedores mais completos e inovadores.
+
+### 🚀 Trajetória
+- **2024**: Início dos estudos em programação
+- **Presente**: Foco em desenvolvimento web 
+- **Futuro**: Buscando especialização em tecnologias modernas
+
 </details>
 
-<!-- Links -->
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brenno-felipe/)
+## 🤝 Conecte-se Comigo
 
-
-<!-- GithubStats -->
-
-![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=DevBF1907&show_icons=true&theme=midnight-purple)
-
-<!-- Portfolio -->
-## Portfolio:
-- [Project-CadUsuario](https://github.com/DevBF1907/Project-CadUsuarios)
-- [Agregador-Invest](https://github.com/DevBF1907/Agregador-Invest.git)
-- [Projeto Faculdade](https://github.com/DevBF1907/PJ-Faculdade)
-
-<!-- GIF -->
-<p align="left">
-  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
-</p>
-
-## 🔥 Skills
-<!-- Skills: Programming Languages -->
-  <div style="flex-basis: 48%;">
-    <h3>Programming Languages</h3>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+<div align="center">
+  <a href="https://www.linkedin.com/in/brenno-felipe/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </div>
 
-###
-  </div>
-  
-  <!-- Skills: Tools & Frameworks -->
-  <div style="flex-basis: 48%;">
-    <h3>Tools & Frameworks</h3>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-</div>
+---
 
-###
-  </div>
-  
 
