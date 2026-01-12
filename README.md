@@ -62,14 +62,6 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na UNINASSAU Graças
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevBF1907&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="Estatísticas do GitHub" />
-</div>
-
----
-
 ## 💡 Mais Sobre Mim
 
 <details>
