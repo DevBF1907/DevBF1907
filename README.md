@@ -6,93 +6,113 @@
 
 ---
 
-## 📋 Sobre Mim
+## 💼 Sobre Mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** na UNINASSAU Graças, apaixonado por tecnologia e desenvolvimento de software. Aos 20 anos, estou em busca de consolidar minha carreira no mercado de trabalho.
+Sou **Analista de Sistemas Jr na Deloitte** e estudante de **Análise e Desenvolvimento de Sistemas**, com foco em desenvolvimento back-end no ecossistema Java.
 
-### 🎯 Objetivos
-- 🌱 **Aprendizado Contínuo**: Sempre buscando aprimorar minhas habilidades técnicas
-- 🔭 **Primeira Oportunidade**: Focado em conseguir meu primeiro estágio na área de desenvolvimento
-- 💼 **Estabilidade Profissional**: Meta de me estabelecer no mercado de trabalho de tecnologia
+Atuo na construção de APIs RESTful escaláveis e seguras, utilizando tecnologias modernas e boas práticas de arquitetura de software.
 
-### 🎓 Educação
-- **Curso**: Análise e Desenvolvimento de Sistemas
-- **Instituição**: UNINASSAU Graças
-- **Modalidade**: Bolsa 100% pelo PROUNI
-- **Período**: 2025 - Presente
+Tenho como objetivo evoluir constantemente como desenvolvedor, criando soluções eficientes que gerem impacto real.
 
 ---
 
-## 🚀 Habilidades Técnicas
+## 🚀 Stack Principal
 
-### Linguagens de Programação
+### 🧠 Back-end (foco)
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,javascript,typescript,python,html,css" alt="Linguagens de programação" />
+  <img src="https://skillicons.dev/icons?i=java,spring,postgresql" />
 </p>
 
-### Banco de Dados
+- Java + Spring Boot  
+- Spring Security  
+- APIs REST  
+- JUnit & Mockito  
+
+---
+
+### ⚙️ Arquitetura & Sistemas Distribuídos
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql" alt="Banco de dados" />
+  <img src="https://skillicons.dev/icons?i=docker" />
 </p>
 
-### Ferramentas e Tecnologias
+- Microsserviços  
+- Kafka & RabbitMQ  
+- Redis (cache e performance)  
+- Docker (containerização)  
+
+---
+
+### ☁️ Cloud & DevOps
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=spring,nestjs,react,docker,prisma,git" alt="ferramentas e tecnologias" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,git" />
 </p>
 
+- AWS & Azure  
+- CI/CD  
+- Git & versionamento  
+
+---
+
+### 🎨 Front-end (complementar)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,typescript,javascript" />
+</p>
+
+- React  
+- TypeScript & JavaScript  
 
 ---
 
 ## 📁 Projetos Destacados
 
-### 🏆 Ranking Web
-- **Descrição**: Sistema web para classificação e ranking
-- **Tecnologias**: JavaScript,Html,Css
-- **Link**: [Ver Projeto](https://github.com/DevBF1907/Ranking-Web.git)
-
 ### 💰 Agregador Invest
-- **Descrição**: Plataforma agregadora de informações de investimentos
-- **Tecnologias**: SpringBoot
-- **Link**: [Ver Projeto](https://github.com/DevBF1907/Agregador-Invest.git)
+- API para agregação de dados de investimentos  
+- **Stack**: Java, Spring Boot  
+- 🔗 https://github.com/DevBF1907/Agregador-Invest
+
+---
+
+### 🏆 Ranking Web
+- Sistema web de classificação e ranking  
+- **Stack**: JavaScript, HTML, CSS  
+- 🔗 https://github.com/DevBF1907/Ranking-Web
+
+---
 
 ### 🚔 Desafio CBMPE
-- **Descrição**: Aplicativo desenvolvido para desafio da CBMPE
-- **Tecnologias**: React Native
-- **Link**: [Ver Projeto](https://github.com/DevBF1907/CBMPE-App.git)
+- Aplicação mobile desenvolvida em desafio prático  
+- **Stack**: React Native  
+- 🔗 https://github.com/DevBF1907/CBMPE-App
 
 ---
 
-## 💡 Mais Sobre Mim
+## 🧠 Interesses Técnicos
 
-<details>
-<summary>🔍 Clique para expandir</summary>
-
-### 🎯 Interesses Pessoais
-- 📚 **Estudos**: Apaixonado por aprender novas tecnologias
-- 📖 **Leitura**: Gosto de ler sobre tecnologia e desenvolvimento pessoal
-- 🏃‍♂️ **Exercícios Físicos**: Mantenho uma rotina ativa de exercícios
-- 🎮 **Gaming**: Gosto de jogar nas horas vagas
-
-### 💭 Filosofia
-Acredito que nossos interesses pessoais contribuem significativamente para uma percepção mais refinada das coisas e para a resolução criativa de problemas. A diversidade de experiências nos torna desenvolvedores mais completos e inovadores.
-
-### 🚀 Trajetória
-- **2024**: Início dos estudos em programação
-- **Presente**: Foco em desenvolvimento web 
-- **Futuro**: Buscando especialização em tecnologias modernas
-
-</details>
+- Arquitetura de Software (DDD, SOLID, Clean Code)  
+- Sistemas distribuídos e escaláveis  
+- Performance e otimização de APIs  
+- Mensageria e comunicação assíncrona  
 
 ---
 
-## 🤝 Conecte-se Comigo
+## 📈 Trajetória
+
+- **2024** → Início na programação  
+- **2025** → Evolução em projetos práticos e estudos intensivos  
+- **2026** → Bootcamp Java + contratação como Analista Jr na Deloitte  
+
+---
+
+## 🎯 Objetivo
+
+Evoluir como desenvolvedor back-end, atuando na construção de sistemas escaláveis, resilientes e preparados para ambientes de produção.
+
+---
+
+## 🤝 Conecte-se comigo
 
 <div align="center">
   <a href="https://www.linkedin.com/in/brenno-felipe/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
-
----
-
-
